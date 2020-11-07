@@ -1,3 +1,2 @@
-4 4 4
-1 4 1
-1 1 1
+sample input format: sample_1.txt, sample_2.txt
+please check those two files.
