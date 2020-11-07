@@ -1,2 +1,1 @@
-test
-13344
+sample input format: sample_1.txt, sample_2.txt
